@@ -1,0 +1,3 @@
+a collection of exercices and test for machine learning on bird images 
+some re training of model 
+some usage of model for bird detection, localisation or identification
